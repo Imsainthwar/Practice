@@ -1,3 +1,0 @@
-css stand for cascading style sheet 
-it using for design and feel in website
-cascading means ?
